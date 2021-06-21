@@ -1,0 +1,45 @@
+/* Style sheet created by: Caleb Smith 06/06/2021 */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #669999;
+}
+
+/* Style for the container element */
+#container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for the footer element */
+footer {
+	font-size: .70em;
+	text-align: center;
+}
+
+/* Style for the table element */
+table {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for the table, tr, th, and td elements */
+table, tr, th, td {
+	border-collapse: collapse;
+	border: solid 0.1em #000000;
+	padding: 1em;
+}
+
+/* Style for the td element */
+td {
+	text-align: center;
+}
+
+/* Style for the caption */
+caption {
+	font-size: 2em;
+	padding: 1em;
+	margin-top: 1em;
+}
